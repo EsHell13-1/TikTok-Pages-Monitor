@@ -1,0 +1,9 @@
+name = "tiktok-pages-monitor"
+compatibility_date = "2026-10-01"
+pages_build_output_dir = "./public"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "tiktok-monitor"
+database_id = "REPLACE_WITH_DATABASE_ID"
+migrations_dir = "migrations"
