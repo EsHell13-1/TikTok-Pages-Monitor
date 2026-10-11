@@ -5,5 +5,5 @@ pages_build_output_dir = "./public"
 [[d1_databases]]
 binding = "DB"
 database_name = "tiktok-monitor"
-database_id = "REPLACE_WITH_DATABASE_ID"
+database_id = "b1ac921f-9aab-4f36-830f-d36802807278"
 migrations_dir = "migrations"
